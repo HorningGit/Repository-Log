@@ -1,0 +1,35 @@
+##############
+#Alexander H.#
+##############
+
+/*
+  This file's purpose is to provide all of the necessary documentation for
+  my CentOS VM server build. This document includes repositories for multiple
+  Linux OS toolkits. These hyperlinks are not my own, and I do not claim ownership.
+*/
+
+
+//Repositories for Server Build
+
+  //Operating System
+    - CentOS | Home Page          : https://www.centos.org/
+    - CentOS | Wiki               : https://wiki.centos.org/
+    - CentOS | Download           : https://www.centos.org/download/
+    - CentOS | HowTos             : https://wiki.centos.org/HowTos
+
+  //Virtualization
+    - QEMU | Home Page            : https://www.qemu.org/
+    - KVM | Home Page             : https://www.linux-kvm.org/page/Main_Page
+    - virt-manager | Home Page    : https://virt-manager.org/
+    - libvert | Home Page         : https://libvirt.org/
+    
+  //Firewalls
+    - Firewalld | Home Page       : https://firewalld.org/documentation/
+    - iptablesa(8) Man Page       : https://linux.die.net/man/8/iptables
+    
+  //Logging
+    - graylog | Package Repo      : https://packages.graylog2.org
+    
+      
+    
+    
