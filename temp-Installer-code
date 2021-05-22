@@ -1,0 +1,48 @@
+# Ubuntu Initial Installer Code
+# Alexander Horning
+
+
+#############################################
+#########[ BRAVE BROWSER SECTION |###########
+#############################################
+
+# Verify/Install apt-transport-https and curl
+sudo apt install apt-transport-https curl
+
+# Obtain encrypted repository keys
+sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
+
+# Add the repository key
+echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable main"|sudo tee /etc/apt/sources.list.d/brave-browser-release.list
+
+# Update our Repositories
+sudo apt update
+
+# Installe Brave Browser
+sudo apt install brave-browser
+
+
+#############################################
+#########[  Gogh Terminal SECTION |##########
+#############################################
+
+# Install (non-interactive mode)
+
+# clone the repository into "Home/src/gogh" | Install parent directory if needed
+mkdir -p "$HOME/src/gogh"
+cd "$HOME/src"
+git clone https://github.com/Mayccoll/Gogh.git gogh
+cd gogh/themes
+
+# Export to gnome-terminal (Ubuntu Configuration)
+export TERMINAL=gnome.terminal
+
+# Install Themes [ Personal Favorite ʕ•́ᴥ•̀ʔっ ]
+./atom.sh
+./chalkboard.sh
+./fairyfloss.sh
+./fairyflossdark.sh
+./gooey.sh
+./jellybeans.sh
+./lunariadark.sh
+./wildcherry.sh
