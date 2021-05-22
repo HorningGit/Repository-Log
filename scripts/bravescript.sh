@@ -1,3 +1,6 @@
+# Free and open-source browser developed by Brave Software, Inc.
+# Based off of the Chromium Browser
+
 #########[ BRAVE BROWSER Script |############
 #############################################
 
