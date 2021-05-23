@@ -4,7 +4,8 @@
 
 #### Virtualbox | Home Page      : https://www.virtualbox.org/
 ###### Oracle VM VirtualBox is a free and open source hosted hypervisor for x86 virtualization, developed by Oracle. This will be used as our virutalization solution for various blockchain virtual nodes, as well as security/loggin vms.
-##### Brave | Linux Home Page     : https://brave.com/linux/
+#### Brave | Linux Home Page     : https://brave.com/linux/
+###### Brave is a free and open-source web browser developed by Brave Software. This web browser has built in integration with the Tor network, as well as having built-in add/tracker blockers.
 #### Oracle VM VirtualBox is a f
 #### Gogh Terminal | Home Page   : https://github.com/Mayccoll/Gogh
 
