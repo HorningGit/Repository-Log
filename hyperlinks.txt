@@ -30,6 +30,9 @@
   //Logging
     - graylog | Package Repo      : https://packages.graylog2.org
     
+  //Markdown Reference
+    - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#videos
+    
     
       
     
