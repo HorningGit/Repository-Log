@@ -12,13 +12,13 @@
 //Repositories for Server Build
 
   //Operating System
-    - CentOS | Home Page          : https://www.centos.org/
-    - CentOS | Wiki               : https://wiki.centos.org/
-    - CentOS | Download           : https://www.centos.org/download/
-    - CentOS | HowTos             : https://wiki.centos.org/HowTos
+    - Ubuntu  | Home Page         : https://ubuntu.com/
+    - CentOS | Wiki               : https://wiki.ubuntu.com/
+    - CentOS | Download           : https://ubuntu.com/download/desktop
+    - CentOS | Tutorials          : https://ubuntu.com/tutorials
 
   //Virtualization
-    - QEMU | Home Page            : https://www.qemu.org/
+    - Virtualbox | Home Page      : https://www.virtualbox.org/
     - KVM | Home Page             : https://www.linux-kvm.org/page/Main_Page
     - virt-manager | Home Page    : https://virt-manager.org/
     - libvert | Home Page         : https://libvirt.org/
