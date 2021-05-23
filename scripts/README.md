@@ -2,9 +2,9 @@
 
 ### References to Useful Websites:
 
-#####- Virtualbox | Home Page      : https://www.virtualbox.org/
-#####- Brave | Linux Home Page     : https://brave.com/linux/
-#####- Gogh Terminal | Home Page   : https://github.com/Mayccoll/Gogh
+##### Virtualbox | Home Page      : https://www.virtualbox.org/
+##### Brave | Linux Home Page     : https://brave.com/linux/
+##### Gogh Terminal | Home Page   : https://github.com/Mayccoll/Gogh
 
 ## Installation
 
