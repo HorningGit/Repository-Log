@@ -1,6 +1,9 @@
-# Foobar
+# How to Install all Open Source Scripts for Adminitration
 
-Foobar is a Python library for dealing with word pluralization.
+### References to Useful Websites:
+#####- Virtualbox | Home Page      : https://www.virtualbox.org/
+#####- Brave | Linux Home Page     : https://brave.com/linux/
+#####- Gogh Terminal | Home Page   : https://github.com/Mayccoll/Gogh
 
 ## Installation
 
