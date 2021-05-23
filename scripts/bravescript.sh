@@ -15,7 +15,7 @@
   echo "deb [signed-key=/usr/share/keyrings/brave-browser-archive-keyring.gpg arch>
   
 # Update our Repositories
-    sudo apt update
+  sudo apt update
     
 # Installe Brave Browser
   sudo apt install brave-browser
